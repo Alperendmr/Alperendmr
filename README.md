@@ -6,6 +6,7 @@ I'm interested in computer hardware systems rather than software
 but that doesn't mean I dont interested in software at all. 😃
 
 I like learning as active different things about tech 💻
+
 I also keen on civilian pilot and planes. ✈️
 
 Like most of the computer fans I am playing some competitive video games. 🎮
