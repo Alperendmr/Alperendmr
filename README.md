@@ -13,7 +13,7 @@ Like most of the computer fans I am playing some competitive video games. 🎮
 
 
 - 🔭 I’m currently working on my University Projects.
-- 🌱 I’m currently learning Python, MsSQL, Linux, Computer Network, OS, C/C++
+- 🌱 I’m currently learning Python, MsSQL, Linux, Computer Networks, OS, C/C++
 - 👯 I’m looking to collaborate on Jobs with working teamwork.
 - 🔰 I'm using as OS generally Windows 8/8.1/10 and for developing Linux Ubuntu 20.04 LTS.
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alperendmr&label=Profile%20views&color=0e75b6&style=flat" alt="Alperendmr" /> </p>
