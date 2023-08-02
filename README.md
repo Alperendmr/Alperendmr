@@ -2,8 +2,8 @@ Hello, I'm Alperen 👋
 
 I'm studying Computer Engineering in Beykoz University.
 
-I'm interested in computer hardware systems and networks rather than software
-but that doesn't mean I dont interested in software at all. 😃
+I'm interested in computer hardware systems and networks 
+rather than software but that doesn't mean I dont interested in software at all. 😃
 
 I like learning as active different things about tech and IT System Administration(Network) 💻
 
