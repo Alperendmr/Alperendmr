@@ -13,9 +13,9 @@ Like most of the computer fans I am playing some competitive video games. 🎮
 
 
 - 🔭 I’m currently............................................
-- 🌱 I’m currently learning Python, Java, MsSQL, Linux, Computer Networks, Windows Server 2016, Active Directory, OS, C/C++
+- 🌱 I’m currently learning MsSQL, Linux, Computer Networks, Windows Server 2016, Active Directory, OS,
 - 👯 I’m looking to collaborate on Jobs with working teamwork.
-- 🔰 I'm using as OS generally Windows 8/8.1/10/11 and for developing Linux Ubuntu 20.04 LTS.
+- 🔰 I'm using as OS generally Windows 8/8.1/10/11 and for developing Linux Ubuntu 20.04 LTS or higher version.
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alperendmr&label=Profile%20views&color=0e75b6&style=flat" alt="Alperendmr" /> </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Alperendmr)
