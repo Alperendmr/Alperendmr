@@ -1,6 +1,6 @@
 Hello, I'm Alperen 👋
 
-I'm studying Computer Engineering in Beykoz University.
+I graduated with a degree in computer engineering from Beykoz University
 
 I'm interested in computer hardware systems and networks 
 rather than software but that doesn't mean I dont interested in software at all. 😃
