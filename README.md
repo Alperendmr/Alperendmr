@@ -3,7 +3,6 @@ Hello, I'm Alperen 👋
 I graduated with a degree in computer engineering from Beykoz University
 
 I'm interested in computer hardware systems and networks 
-rather than software but that doesn't mean I dont interested in software at all. 😃
 
 I like learning as active different things about tech and IT System Administration(Network) 💻
 
@@ -12,9 +11,8 @@ I also keen on civilian pilot and planes. ✈️
 Like most of the computer fans I am playing some competitive video games. 🎮
 
 
-- 🔭 I’m currently............................................
-- 🌱 I’m currently learning MsSQL, Linux, Computer Networks, Windows Server 2016, Active Directory, OS,
-- 👯 I’m looking to collaborate on Jobs with working teamwork.
+- 🔭 I am currently working in the Cyber ​​Security Group at the ISKI General Directorate.
+- 🌱 I’m currently learning Fortigate Security Products, Trendmicro Antivirus & Mail Security Products, Linux, Computer Networks, Windows Server, Virtualization (esXi Wmware), Active Directory, OS,
 - 🔰 I'm using as OS generally Windows 8/8.1/10/11 and for developing Linux Ubuntu 20.04 LTS or higher version.
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alperendmr&label=Profile%20views&color=0e75b6&style=flat" alt="Alperendmr" /> </p>
 
